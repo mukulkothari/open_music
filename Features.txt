@@ -1,0 +1,10 @@
+Genre
+Artist
+Tempo
+Key
+Instruments
+Structure
+Chords
+Progressions
+Effects
+Effectes chain
