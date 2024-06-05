@@ -2,7 +2,7 @@
 
 ## About the community
 The **idea** is to build an open community for music where people can connect, interact, collaborate and exchange music in any and every form
-The **vision** is to make music production and  available  
+The **vision** is to make music production easy for one and all. No one should have to rely on music streaming services for their music consumption.
 Would you love to be part of a music community that lets you enjoy music the way you want to 
 
 
