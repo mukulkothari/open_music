@@ -1,0 +1,8 @@
+Product description
+
+- Users wish to listen to songs based on their current mood
+- want to tell you explicitly what 
+
+User Scenarios
+- On the way to office, tired and restless but a big day ahead, need an **energy boost**
+- Next morning, slightly late, 
