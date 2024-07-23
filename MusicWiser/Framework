@@ -1,0 +1,22 @@
+- Process Input using NLP - mood, genre, situation, etc
+- Generate music based on the input
+  - map user input with musical components (chords, melodies, etc) | maintain a databse or generate components on the go
+  - or use generarative models like VAEs and RNNs for melody/component generation
+  - components : Melody; harmony & chords progressions; Rhythm & Tempo; Instrumentation
+
+- Feedback loop
+  - UI
+  - User Controls
+  - Adaptive learning for the model
+
+
+Existing Tools
+- MuseNet by OpenAI (4 min compositions, 10 diff instruments)(https://openai.com/index/musenet/)
+- AIVA (emotional soundtracks)
+- Amper Music (specify genre/mood, etc; allows edits/refinements)
+- Jukedeck (allows adjustments in tempo, instrumentation etc)
+- Magenta by Goodle (Nsyth and MusicVAE)
+- Endel (adaptive soundscapes)
+- Bloomy (easy UI)
+
+
